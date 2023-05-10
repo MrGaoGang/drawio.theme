@@ -11,6 +11,7 @@
         "苹果-简",
         "Comic Sans MS",
         "Segoe Script",
+        "钉钉进步体",
         "得意黑",
         "Open Sans"
     ],
@@ -247,7 +248,7 @@
         ]
     ],
     "defaultVertexStyle": {
-        "fontFamily": "Comic Sans MS",
+        "fontFamily": "钉钉进步体",
         "fontSize": "16",
         "strokeWidth": "2",
         "fontColor": "#34495D",
