@@ -1,274 +1,291 @@
 {
-    "customPresetColors": [
-        "034FD8",
-        "34495D",
-        "42B681",
-        "FBB638",
-        "8698A2",
-        "D85960"
+  "customPresetColors": [
+    "034FD8",
+    "34495D",
+    "42B681",
+    "FBB638",
+    "8698A2",
+    "D85960"
+  ],
+  "customFonts": [
+    "苹果-简",
+    "Comic Sans MS",
+    "Segoe Script",
+    "钉钉进步体",
+    "得意黑",
+    "Open Sans"
+  ],
+  "customColorSchemes": [
+    [
+      {
+        "fill": "#E6FFFA",
+        "stroke": "#3BB3AD",
+        "font": "#3BB3AD"
+      },
+      {
+        "stroke": "#48BB78",
+        "fill": "#F0FFF4",
+        "font": "#3BB3AD"
+      },
+      {
+        "stroke": "#4299E1",
+        "fill": "#EBF8FF",
+        "font": "#4299E1"
+      },
+      {
+        "stroke": "#7F9CF5",
+        "fill": "#EBF8FF",
+        "font": "#7F9CF5"
+      },
+      {
+        "fill": "#F1EDF3",
+        "stroke": "#9b59b6",
+        "font": "#9b59b6"
+      },
+      {
+        "fill": "#FBE4E4",
+        "stroke": "#D85960",
+        "font": "#D85960"
+      },
+      {
+        "fill": "transparent",
+        "stroke": "#FBB638",
+        "font": "#FBB638"
+      },
+      {
+        "fill": "transparent",
+        "stroke": "#A0AEC0",
+        "font": "#A0AEC0"
+      }
     ],
-    "customFonts": [
-        "苹果-简",
-        "Comic Sans MS",
-        "Segoe Script",
-        "钉钉进步体",
-        "得意黑",
-        "Open Sans"
+    [
+      {
+        "fill": "#1C3C3C",
+        "stroke": "none",
+        "font": "#ffffff"
+      },
+      {
+        "fill": "#142A2A",
+        "stroke": "none",
+        "font": "#ffffff"
+      },
+      {
+        "fill": "#D0C9FE",
+        "stroke": "none",
+        "font": "#ffffff"
+      }
     ],
-    "customColorSchemes": [
-        [
-            {
-                "fill": "#E6FFFA",
-                "stroke": "#3BB3AD",
-                "font": "#3BB3AD"
-            },
-            {
-                "stroke": "#48BB78",
-                "fill": "#F0FFF4",
-                "font": "#3BB3AD"
-            },
-            {
-                "stroke": "#4299E1",
-                "fill": "#EBF8FF",
-                "font": "#4299E1"
-            },
-            {
-                "stroke": "#7F9CF5",
-                "fill": "#EBF8FF",
-                "font": "#7F9CF5"
-            },
-            {
-                "fill": "#F1EDF3",
-                "stroke": "#9b59b6",
-                "font": "#9b59b6"
-            },
-            {
-                "fill": "#FBE4E4",
-                "stroke": "#D85960",
-                "font": "#D85960"
-            },
-            {
-                "fill": "transparent",
-                "stroke": "#FBB638",
-                "font": "#FBB638"
-            },
-            {
-                "fill": "transparent",
-                "stroke": "#A0AEC0",
-                "font": "#A0AEC0"
-            }
-        ],
-        [
-            {
-                "fill": "#42B681",
-                "stroke": "none",
-                "font": "#ffffff"
-            },
-            {
-                "fill": "#034FD8",
-                "stroke": "none",
-                "font": "#ffffff"
-            },
-            {
-                "fill": "#34495D",
-                "stroke": "none",
-                "font": "#ffffff"
-            },
-            {
-                "fill": "#42B681",
-                "stroke": "none",
-                "font": "#ffffff"
-            },
-            {
-                "fill": "#FBB638",
-                "stroke": "none",
-                "font": "#ffffff"
-            },
-            {
-                "fill": "#8698A2",
-                "stroke": "none",
-                "font": "#ffffff"
-            },
-            {
-                "fill": "#D85960",
-                "stroke": "none",
-                "font": "#ffffff"
-            },
-            {
-                "fill": "#1abc9c",
-                "stroke": "none",
-                "font": "#ffffff"
-            },
-            {
-                "fill": "#2ecc71",
-                "stroke": "none",
-                "font": "#ffffff"
-            },
-            {
-                "fill": "#9b59b6",
-                "stroke": "none",
-                "font": "#ffffff"
-            },
-            {
-                "fill": "#3498db",
-                "stroke": "none",
-                "font": "#ffffff"
-            },
-            {
-                "fill": "#e67e22",
-                "stroke": "none",
-                "font": "#ffffff"
-            },
-            {
-                "fill": "#e74c3c",
-                "stroke": "none",
-                "font": "#ffffff"
-            },
-            {
-                "fill": "#ff6b6b",
-                "stroke": "none",
-                "font": "#ffffff"
-            }
-        ],
-        [
-            {
-                "fill": "#a2a5a7",
-                "stroke": "none",
-                "font": "#ffffff"
-            },
-            {
-                "fill": "#fcd766",
-                "stroke": "none",
-                "font": "#ffffff"
-            },
-            {
-                "fill": "#9fdad5",
-                "stroke": "none",
-                "font": "#ffffff"
-            },
-            {
-                "fill": "#f19b97",
-                "stroke": "none",
-                "font": "#ffffff"
-            },
-            {
-                "fill": "#A9C4EB",
-                "stroke": "none",
-                "font": "#ffffff"
-            }
-        ],
-        [
-            {
-                "fill": "#277da1",
-                "stroke": "none",
-                "font": "#ffffff"
-            },
-            {
-                "fill": "#577590",
-                "stroke": "none",
-                "font": "#ffffff"
-            },
-            {
-                "fill": "#4d908e",
-                "stroke": "none",
-                "font": "#ffffff"
-            },
-            {
-                "fill": "#43aa8b",
-                "stroke": "none",
-                "font": "#ffffff"
-            },
-            {
-                "fill": "#90be6d",
-                "stroke": "none",
-                "font": "#ffffff"
-            },
-            {
-                "fill": "#f9c74f",
-                "stroke": "none",
-                "font": "#ffffff"
-            },
-            {
-                "fill": "#f9844a",
-                "stroke": "none",
-                "font": "#ffffff"
-            },
-            {
-                "fill": "#f8961e",
-                "stroke": "none",
-                "font": "#ffffff"
-            },
-            {
-                "fill": "#f3722c",
-                "stroke": "none",
-                "font": "#ffffff"
-            },
-            {
-                "fill": "#f94144",
-                "stroke": "none",
-                "font": "#ffffff"
-            }
-        ],
-        [
-            {
-                "fill": "none",
-                "stroke": "#D85960",
-                "font": "#D85960"
-            },
-            {
-                "fill": "none",
-                "stroke": "#1abc9c",
-                "font": "#1abc9c"
-            },
-            {
-                "fill": "none",
-                "stroke": "#2ecc71",
-                "font": "#2ecc71"
-            },
-            {
-                "fill": "none",
-                "stroke": "#3498db",
-                "font": "#3498db"
-            },
-            {
-                "fill": "none",
-                "stroke": "#9b59b6",
-                "font": "#9b59b6"
-            },
-            {
-                "fill": "none",
-                "stroke": "#e74c3c",
-                "font": "#e74c3c"
-            },
-            {
-                "fill": "none",
-                "stroke": "#f39c12",
-                "font": "#f39c12"
-            }
-        ]
+    [
+      {
+        "fill": "#42B681",
+        "stroke": "none",
+        "font": "#ffffff"
+      },
+      {
+        "fill": "#034FD8",
+        "stroke": "none",
+        "font": "#ffffff"
+      },
+      {
+        "fill": "#34495D",
+        "stroke": "none",
+        "font": "#ffffff"
+      },
+      {
+        "fill": "#42B681",
+        "stroke": "none",
+        "font": "#ffffff"
+      },
+      {
+        "fill": "#FBB638",
+        "stroke": "none",
+        "font": "#ffffff"
+      },
+      {
+        "fill": "#8698A2",
+        "stroke": "none",
+        "font": "#ffffff"
+      },
+      {
+        "fill": "#D85960",
+        "stroke": "none",
+        "font": "#ffffff"
+      },
+      {
+        "fill": "#1abc9c",
+        "stroke": "none",
+        "font": "#ffffff"
+      },
+      {
+        "fill": "#2ecc71",
+        "stroke": "none",
+        "font": "#ffffff"
+      },
+      {
+        "fill": "#9b59b6",
+        "stroke": "none",
+        "font": "#ffffff"
+      },
+      {
+        "fill": "#3498db",
+        "stroke": "none",
+        "font": "#ffffff"
+      },
+      {
+        "fill": "#e67e22",
+        "stroke": "none",
+        "font": "#ffffff"
+      },
+      {
+        "fill": "#e74c3c",
+        "stroke": "none",
+        "font": "#ffffff"
+      },
+      {
+        "fill": "#ff6b6b",
+        "stroke": "none",
+        "font": "#ffffff"
+      }
     ],
-    "defaultVertexStyle": {
-        "fontFamily": "钉钉进步体",
-        "fontSize": "16",
-        "strokeWidth": "2",
-        "fontColor": "#34495D",
-        "arcSize": "10",
-        "absoluteArcSize": "1",
-        "rounded": "1",
-        "shadow": "0",
-        "comic": "0"
-    },
-    "defaultEdgeStyle": {
-        "fontFamily": "Comic Sans MS",
-        "fontSize": "14",
-        "fontColor": "#34495D",
-        "strokeWidth": "2",
-        "arcSize": "10",
-        "absoluteArcSize": "1",
-        "rounded": "1",
-        "shadow": "0",
-        "comic": "0",
-        "strokeColor": "#A0AEC0"
-    },
-    "fontCss": "@import url(https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe)}"
+    [
+      {
+        "fill": "#a2a5a7",
+        "stroke": "none",
+        "font": "#ffffff"
+      },
+      {
+        "fill": "#fcd766",
+        "stroke": "none",
+        "font": "#ffffff"
+      },
+      {
+        "fill": "#9fdad5",
+        "stroke": "none",
+        "font": "#ffffff"
+      },
+      {
+        "fill": "#f19b97",
+        "stroke": "none",
+        "font": "#ffffff"
+      },
+      {
+        "fill": "#A9C4EB",
+        "stroke": "none",
+        "font": "#ffffff"
+      }
+    ],
+    [
+      {
+        "fill": "#277da1",
+        "stroke": "none",
+        "font": "#ffffff"
+      },
+      {
+        "fill": "#577590",
+        "stroke": "none",
+        "font": "#ffffff"
+      },
+      {
+        "fill": "#4d908e",
+        "stroke": "none",
+        "font": "#ffffff"
+      },
+      {
+        "fill": "#43aa8b",
+        "stroke": "none",
+        "font": "#ffffff"
+      },
+      {
+        "fill": "#90be6d",
+        "stroke": "none",
+        "font": "#ffffff"
+      },
+      {
+        "fill": "#f9c74f",
+        "stroke": "none",
+        "font": "#ffffff"
+      },
+      {
+        "fill": "#f9844a",
+        "stroke": "none",
+        "font": "#ffffff"
+      },
+      {
+        "fill": "#f8961e",
+        "stroke": "none",
+        "font": "#ffffff"
+      },
+      {
+        "fill": "#f3722c",
+        "stroke": "none",
+        "font": "#ffffff"
+      },
+      {
+        "fill": "#f94144",
+        "stroke": "none",
+        "font": "#ffffff"
+      }
+    ],
+    [
+      {
+        "fill": "none",
+        "stroke": "#D85960",
+        "font": "#D85960"
+      },
+      {
+        "fill": "none",
+        "stroke": "#1abc9c",
+        "font": "#1abc9c"
+      },
+      {
+        "fill": "none",
+        "stroke": "#2ecc71",
+        "font": "#2ecc71"
+      },
+      {
+        "fill": "none",
+        "stroke": "#3498db",
+        "font": "#3498db"
+      },
+      {
+        "fill": "none",
+        "stroke": "#9b59b6",
+        "font": "#9b59b6"
+      },
+      {
+        "fill": "none",
+        "stroke": "#e74c3c",
+        "font": "#e74c3c"
+      },
+      {
+        "fill": "none",
+        "stroke": "#f39c12",
+        "font": "#f39c12"
+      }
+    ]
+  ],
+  "defaultVertexStyle": {
+    "fontFamily": "钉钉进步体",
+    "fontSize": "16",
+    "strokeWidth": "2",
+    "fontColor": "#34495D",
+    "arcSize": "10",
+    "absoluteArcSize": "1",
+    "rounded": "1",
+    "shadow": "0",
+    "comic": "0"
+  },
+  "defaultEdgeStyle": {
+    "fontFamily": "Comic Sans MS",
+    "fontSize": "14",
+    "fontColor": "#34495D",
+    "strokeWidth": "2",
+    "arcSize": "10",
+    "absoluteArcSize": "1",
+    "rounded": "1",
+    "shadow": "0",
+    "comic": "0",
+    "strokeColor": "#A0AEC0"
+  },
+  "fontCss": "@import url(https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe)}"
 }
